@@ -1,6 +1,6 @@
 # CPP (C++ Practicals For B.Sc)  
 
-![img]: (/https://imgs.search.brave.com/TFxBBCV_rIFZ6r6a4YhFOpVIWlh3lyNLERkTTwQS164/rs:fit:1007:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Q/WFlTd1Vud0I1TVV6/dWhnX2sxR0hBSGFE/ZiZwaWQ9QXBp "Bjarne Strastrup")
+![Bjarne] (https://imgs.search.brave.com/TFxBBCV_rIFZ6r6a4YhFOpVIWlh3lyNLERkTTwQS164/rs:fit:1007:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Q/WFlTd1Vud0I1TVV6/dWhnX2sxR0hBSGFE/ZiZwaWQ9QXBp "Bjarne Strastrup")
 
 This repository contains all the practical programs of c++.  
 
