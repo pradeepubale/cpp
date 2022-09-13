@@ -1,6 +1,6 @@
 # CPP (C++ Practicals For B.Sc)  
 
-![Bjarne] (https://imgs.search.brave.com/TFxBBCV_rIFZ6r6a4YhFOpVIWlh3lyNLERkTTwQS164/rs:fit:1007:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Q/WFlTd1Vud0I1TVV6/dWhnX2sxR0hBSGFE/ZiZwaWQ9QXBp "Bjarne Strastrup")
+![Bjarne](https://camo.githubusercontent.com/a11579935891f044bcf8d1f7fedd385f30d95fd814d2cc0833d73e50da82396e/687474703a2f2f692e696d6775722e636f6d2f76384956446b612e6a7067)
 
 This repository contains all the practical programs of c++.  
 
