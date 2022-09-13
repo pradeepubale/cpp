@@ -1,6 +1,6 @@
 # CPP (C++ Practicals For B.Sc)  
 
-![Bjarne](https://camo.githubusercontent.com/a11579935891f044bcf8d1f7fedd385f30d95fd814d2cc0833d73e50da82396e/687474703a2f2f692e696d6775722e636f6d2f76384956446b612e6a7067)
+![Bjarne](https://www.azquotes.com/picture-quotes/quote-c-makes-it-easy-to-shoot-yourself-in-the-foot-c-makes-it-harder-but-when-you-do-it-blows-bjarne-stroustrup-54-50-27.jpg)
 
 This repository contains all the practical programs of c++.  
 
