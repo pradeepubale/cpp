@@ -14,3 +14,5 @@ Create a file for the assignments for final submission.
 |-------|------------|
 | Practical 1 | [01](https://github.com/pradeepubale/cpp/blob/main/01namespace.cpp) |
 | Practical 2 | [02](https://github.com/pradeepubale/cpp/blob/main/02functionOverload.cpp) |
+| Practical 3 | [03](https://github.com/pradeepubale/cpp/blob/main/03inline.cpp) |
+| Practical 4 | [04](https://github.com/pradeepubale/cpp/blob/main/04class.cpp) |
