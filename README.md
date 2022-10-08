@@ -16,3 +16,12 @@ Create a file for the assignments for final submission.
 | Practical 2 | [02](https://github.com/pradeepubale/cpp/blob/main/02functionOverload.cpp) |
 | Practical 3 | [03](https://github.com/pradeepubale/cpp/blob/main/03inline.cpp) |
 | Practical 4 | [04](https://github.com/pradeepubale/cpp/blob/main/04class.cpp) |
+| Practical 5 | [05](https://github.com/pradeepubale/cpp/blob/main/05inline.cpp) |
+| Practical 6 | [06](https://github.com/pradeepubale/cpp/blob/main/06myheader.cpp) |
+| Practical 7 | [07](https://github.com/pradeepubale/cpp/blob/main/07staticFunction.cpp) |
+| Practical 8 | [08](https://github.com/pradeepubale/cpp/blob/main/08arrayOfObjs.cpp) |
+| Practical 9 | [09](https://github.com/pradeepubale/cpp/blob/main/09objAsFunctionArgs.cpp) |
+| Practical 10 | [10](https://github.com/pradeepubale/cpp/blob/main/10friendFunction.cpp) |
+| Practical 11 | [11](https://github.com/pradeepubale/cpp/blob/main/11constructor.cpp) |
+| Practical 12 | [12](https://github.com/pradeepubale/cpp/blob/main/12unaryOperator.cpp) |
+| Practical 13 | [13](https://github.com/pradeepubale/cpp/blob/main/13binaryOperator.cpp) |
